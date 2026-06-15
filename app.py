@@ -1,4 +1,3 @@
-python
 import os
 from io import BytesIO
 from textwrap import wrap
