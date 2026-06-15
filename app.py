@@ -1,4 +1,4 @@
-```python
+python
 import os
 from io import BytesIO
 from textwrap import wrap
@@ -600,4 +600,3 @@ elif st.session_state.page == "result":
 else:
     st.session_state.page = "start"
     st.rerun()
-```
